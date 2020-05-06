@@ -24,10 +24,10 @@ The script will output a file named `df_tidy_data.txt` in the `tidydata/` folder
 
 
 ## Raw Data Description 
-Data are described in the [CodeBook.md](CodeBook.md) file 
+Data are described in the [CodeBook.md](CodeBook.md$raw-data-description) file 
 
 
 ## Data Transformations 
-All data transformations are described in the [CodeBook.md](CodeBook.md) file 
+All data transformations are described in the [CodeBook.md](CodeBook.md#data-transformations) file 
 
 
