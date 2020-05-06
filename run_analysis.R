@@ -1,4 +1,4 @@
-setwd("~/Documents/data-sciences/Coursera/DataScienceJHU/Module3/final-assignment")
+# setwd("~/Documents/data-sciences/Coursera/DataScienceJHU/Module3/final-assignment")
 
 # load useful libraries 
 library(dplyr)
