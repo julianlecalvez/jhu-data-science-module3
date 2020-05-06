@@ -99,7 +99,7 @@ The complete list of variables of each feature vector is available in 'features.
 
 
 
-## [Data Transformations in run_analysis.R]
+## [Data Transformations in run_analysis.R](#data-transformations-in-run_analysisr)
 
 The `run_analysis.R` file does the data clean up in 4 steps : 
 
